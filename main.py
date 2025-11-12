@@ -2,8 +2,8 @@ import streamlit as st
 
 from fastapi import FastAPI
 
-## Initialize FastAPI app
-#app = FastAPI()
+# Initialize FastAPI app
+app = FastAPI()
 #
 ## Streamlit UI
 #grad = """
